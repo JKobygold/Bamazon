@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JKobygold/Bamazon#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
   }
